@@ -1,0 +1,11 @@
+{
+    "name": "dell/blog_system",
+    "autoload": {
+        "psr-4": {
+            "Dell\\BlogSystem\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
